@@ -77,3 +77,9 @@ Run this command to see if any errors.
 Verified that you have the swapfile running.
 
 ```htop```
+
+Get my static ip
+
+```curl ifconfig.me```
+
+
